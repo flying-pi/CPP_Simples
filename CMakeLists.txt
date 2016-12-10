@@ -8,3 +8,6 @@ add_executable(CPP_Simples ${SOURCE_FILES})
 
 set(SOURCE_FILES bitFiled/main.cpp)
 add_executable(bitFiled ${SOURCE_FILES})
+
+set(SOURCE_FILES alternativeSymbols/main.cpp alternativeSymbols/main.cpp)
+add_executable(alternativeSymbols ${SOURCE_FILES})
